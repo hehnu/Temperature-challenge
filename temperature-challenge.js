@@ -55,3 +55,7 @@ function closestToZero(numbers) {
 let result = closestToZero(inputs);
 
 console.log(result || 0);
+
+//or 
+
+//if (n== ""){ console.log(0); };
